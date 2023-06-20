@@ -2,7 +2,7 @@
 
 ## Feature Description
 
-* This is a Line chatbot of travel insurance application. It supports user can apply a travel insurance on Line channel.
+* Implement insurance application feature on the Line bot platform.
 
 
 ## Architecture
