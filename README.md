@@ -4,6 +4,11 @@
 
 * This is a Line chatbot of travel insurance application. It supports user can apply a travel insurance on Line channel.
 
+
+## Architecture
+
+![img](linebot_architecture.png)
+
 ## Demo
 
 ![img](carelineTestDemo.gif)
